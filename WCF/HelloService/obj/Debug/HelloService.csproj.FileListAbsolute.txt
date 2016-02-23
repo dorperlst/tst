@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\tst\HelloService\bin\Debug\HelloService.dll
+C:\Users\lenovo\Desktop\tst\HelloService\bin\Debug\HelloService.pdb
+C:\Users\lenovo\Desktop\tst\HelloService\obj\Debug\HelloService.dll
+C:\Users\lenovo\Desktop\tst\HelloService\obj\Debug\HelloService.pdb
+C:\Users\lenovo\Desktop\tst\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache

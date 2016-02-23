@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\tst\HelloWebApplication\bin\HelloWebApplication.dll.config
+C:\Users\lenovo\Desktop\tst\HelloWebApplication\bin\HelloWebApplication.dll
+C:\Users\lenovo\Desktop\tst\HelloWebApplication\bin\HelloWebApplication.pdb
+C:\Users\lenovo\Desktop\tst\HelloWebApplication\obj\Debug\HelloWebApplication.dll
+C:\Users\lenovo\Desktop\tst\HelloWebApplication\obj\Debug\HelloWebApplication.pdb
+C:\Users\lenovo\Desktop\tst\HelloWebApplication\obj\Debug\HelloWebApplication.csprojResolveAssemblyReference.cache

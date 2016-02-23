@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="AdventureWorks2012" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=LAPTOP-A21AF34N;Initial Catalog=AdventureWorks2012;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="AdventureWorks2012ConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="Person.Person" Member="Persons">
+    <Type Name="Person">
+      <Column Name="BusinessEntityID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PersonType" Type="System.String" DbType="NChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="NameStyle" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(8)" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MiddleName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Suffix" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="EmailPromotion" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AdditionalContactInfo" Type="System.Xml.Linq.XElement" DbType="Xml" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Demographics" Type="System.Xml.Linq.XElement" DbType="Xml" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="rowguid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="ModifiedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Person_PersonPhone" Member="PersonPhones" ThisKey="BusinessEntityID" OtherKey="BusinessEntityID" Type="PersonPhone" />
+      <Association Name="Person_Password" Member="Password" ThisKey="BusinessEntityID" OtherKey="BusinessEntityID" Type="Password" Cardinality="One" />
+      <Type Name="personi1">
+        <Column Member="val1" Type="System.String" CanBeNull="false" />
+      </Type>
+      <Type Name="person2">
+        <Column Member="val2" Type="System.String" CanBeNull="false" />
+      </Type>
+    </Type>
+    <UpdateFunction FunctionId="FunctionId1">
+      <Argument Parameter="firstName" Member="FirstName" />
+      <Argument Parameter="lastName" Member="LastName" />
+    </UpdateFunction>
+  </Table>
+  <Table Name="Person.PersonPhone" Member="PersonPhones">
+    <Type Name="PersonPhone">
+      <Column Name="BusinessEntityID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(25) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PhoneNumberTypeID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ModifiedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Person_PersonPhone" Member="Person" ThisKey="BusinessEntityID" OtherKey="BusinessEntityID" Type="Person" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="Person.Password" Member="Passwords">
+    <Type Name="Password">
+      <Column Name="BusinessEntityID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PasswordHash" Type="System.String" DbType="VarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordSalt" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="rowguid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="ModifiedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Person_Password" Member="Person" ThisKey="BusinessEntityID" OtherKey="BusinessEntityID" Type="Person" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.tst" Method="tst">
+    <Parameter Name="pid" Type="System.Int32" DbType="Int" />
+    <ElementType Name="tstResult">
+      <Column Name="BusinessEntityID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PersonType" Type="System.String" DbType="NChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="NameStyle" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(8)" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MiddleName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Suffix" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="EmailPromotion" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AdditionalContactInfo" Type="System.Xml.Linq.XElement" DbType="Xml" CanBeNull="true" />
+      <Column Name="Demographics" Type="System.Xml.Linq.XElement" DbType="Xml" CanBeNull="true" />
+      <Column Name="rowguid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="ModifiedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Id="FunctionId1" Name="dbo.UpdatePerson" Method="UpdatePerson">
+    <Parameter Name="FirstName" Parameter="firstName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="LastName" Parameter="lastName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="pid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

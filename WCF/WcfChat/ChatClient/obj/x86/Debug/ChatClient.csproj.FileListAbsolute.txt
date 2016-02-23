@@ -1,0 +1,37 @@
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\bin\Debug\ChatClient.exe.config
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\bin\Debug\ChatClient.exe
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\bin\Debug\ChatClient.pdb
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\bin\Debug\WcfChat.dll
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\bin\Debug\WcfChat.pdb
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\ChatClient.LoginForm.resources
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\ChatClient.MainForm.resources
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\ChatClient.exe
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\bin\Debug\WcfChat.dll
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\bin\Debug\WcfChat.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\obj\x86\Debug\ChatClient.LoginForm.resources
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\obj\x86\Debug\ChatClient.MainForm.resources
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\bin\Debug\WcfChat.dll
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\bin\Debug\WcfChat.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\obj\x86\Debug\ChatClient.LoginForm.resources
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\obj\x86\Debug\ChatClient.MainForm.resources
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatClient\obj\x86\Debug\ChatClient.pdb

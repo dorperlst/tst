@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\bin\Debug\IHelloRemotingServiceTst.exe.config
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\bin\Debug\IHelloRemotingServiceTst.exe
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\bin\Debug\IHelloRemotingServiceTst.pdb
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\bin\Debug\IHelloRemotingService.dll
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\bin\Debug\IHelloRemotingService.pdb
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\obj\Debug\HelloRemotingServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\obj\Debug\HelloRemotingServiceClient.Form1.resources
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\obj\Debug\HelloRemotingServiceClient.Properties.Resources.resources
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\obj\Debug\HelloRemotingServiceClient.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\obj\Debug\IHelloRemotingServiceTst.exe
+C:\Users\lenovo\Desktop\tst\IHelloRemotingServiceTst\obj\Debug\IHelloRemotingServiceTst.pdb

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\tst\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lenovo\Desktop\tst\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\tst\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\lenovo\Desktop\tst\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\tst\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\tst\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\lenovo\Desktop\tst\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\tst\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\tst\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\tst\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml

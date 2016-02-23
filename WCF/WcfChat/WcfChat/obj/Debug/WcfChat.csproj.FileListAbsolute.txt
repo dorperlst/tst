@@ -1,0 +1,18 @@
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\WcfChat\bin\Debug\WcfChat.dll.config
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\WcfChat\bin\Debug\WcfChat.dll
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\WcfChat\bin\Debug\WcfChat.pdb
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\WcfChat\obj\Debug\ResolveAssemblyReference.cache
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\WcfChat\obj\Debug\WcfChat.dll
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\WcfChat\obj\Debug\WcfChat.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\WcfChat\bin\Debug\WcfChat.dll.config
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\WcfChat\bin\Debug\WcfChat.dll
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\WcfChat\bin\Debug\WcfChat.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\WcfChat\obj\Debug\WcfChat.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\WcfChat\obj\Debug\WcfChat.dll
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\WcfChat\obj\Debug\WcfChat.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\WcfChat\bin\Debug\WcfChat.dll.config
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\WcfChat\bin\Debug\WcfChat.dll
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\WcfChat\bin\Debug\WcfChat.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\WcfChat\obj\Debug\WcfChat.dll
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\WcfChat\obj\Debug\WcfChat.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\WcfChat\obj\Debug\WcfChat.csprojResolveAssemblyReference.cache
