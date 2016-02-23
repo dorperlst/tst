@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\tst\jquery\bin\jquery.dll.config
+C:\Users\lenovo\Desktop\tst\jquery\bin\jquery.dll
+C:\Users\lenovo\Desktop\tst\jquery\bin\jquery.pdb
+C:\Users\lenovo\Desktop\tst\jquery\obj\Debug\jquery.dll
+C:\Users\lenovo\Desktop\tst\jquery\obj\Debug\jquery.pdb
+C:\Users\lenovo\Desktop\tst\jquery\obj\Debug\jquery.csprojResolveAssemblyReference.cache

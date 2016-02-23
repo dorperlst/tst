@@ -1,0 +1,5 @@
+﻿
+
+$('.Target').click(function (e) {
+
+});

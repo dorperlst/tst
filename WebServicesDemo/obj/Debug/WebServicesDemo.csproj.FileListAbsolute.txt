@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\tst\WebServicesDemo\bin\WebServicesDemo.dll.config
+C:\Users\lenovo\Desktop\tst\WebServicesDemo\bin\WebServicesDemo.dll
+C:\Users\lenovo\Desktop\tst\WebServicesDemo\bin\WebServicesDemo.pdb
+C:\Users\lenovo\Desktop\tst\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+C:\Users\lenovo\Desktop\tst\WebServicesDemo\obj\Debug\WebServicesDemo.pdb
+C:\Users\lenovo\Desktop\tst\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache

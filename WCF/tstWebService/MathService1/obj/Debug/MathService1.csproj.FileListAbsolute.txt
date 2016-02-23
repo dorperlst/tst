@@ -1,0 +1,10 @@
+C:\_Projects\WCF\MathService1\MathService1\bin\MathService1.dll
+C:\_Projects\WCF\MathService1\MathService1\bin\MathService1.pdb
+C:\_Projects\WCF\MathService1\MathService1\obj\Debug\MathService1.dll
+C:\_Projects\WCF\MathService1\MathService1\obj\Debug\MathService1.pdb
+C:\Users\lenovo\Downloads\MathService1\MathService1\bin\MathService1.dll.config
+C:\Users\lenovo\Downloads\MathService1\MathService1\bin\MathService1.dll
+C:\Users\lenovo\Downloads\MathService1\MathService1\bin\MathService1.pdb
+C:\Users\lenovo\Downloads\MathService1\MathService1\obj\Debug\MathService1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Downloads\MathService1\MathService1\obj\Debug\MathService1.dll
+C:\Users\lenovo\Downloads\MathService1\MathService1\obj\Debug\MathService1.pdb

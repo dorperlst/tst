@@ -1,0 +1,11 @@
+C:\Users\edna\Desktop\Logon\Login\bin\Login.dll
+C:\Users\edna\Desktop\Logon\Login\bin\Login.pdb
+C:\Users\edna\Desktop\Logon\Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\edna\Desktop\Logon\Login\obj\Debug\Login.dll
+C:\Users\edna\Desktop\Logon\Login\obj\Debug\Login.pdb
+C:\Users\lenovo\Desktop\tst\Logon\Login\bin\Login.dll.config
+C:\Users\lenovo\Desktop\tst\Logon\Login\bin\Login.dll
+C:\Users\lenovo\Desktop\tst\Logon\Login\bin\Login.pdb
+C:\Users\lenovo\Desktop\tst\Logon\Login\obj\Debug\Login.dll
+C:\Users\lenovo\Desktop\tst\Logon\Login\obj\Debug\Login.pdb
+C:\Users\lenovo\Desktop\tst\Logon\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+C:\Users\lenovo\Desktop\tst\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\obj\Debug\HelloWindowsClient.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+C:\Users\lenovo\Desktop\tst\WCF\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb

@@ -1,0 +1,4 @@
+C:\Users\lenovo\Desktop\tst\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\lenovo\Desktop\tst\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\lenovo\Desktop\tst\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+C:\Users\lenovo\Desktop\tst\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

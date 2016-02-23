@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\tst\tst\bin\Debug\tst.exe.config
+C:\Users\lenovo\Desktop\tst\tst\obj\Debug\tst.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\tst\tst\bin\Debug\tst.exe
+C:\Users\lenovo\Desktop\tst\tst\bin\Debug\tst.pdb
+C:\Users\lenovo\Desktop\tst\tst\obj\Debug\tst.exe
+C:\Users\lenovo\Desktop\tst\tst\obj\Debug\tst.pdb

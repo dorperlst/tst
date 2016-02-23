@@ -1,0 +1,24 @@
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\bin\Debug\ChatServer.exe.config
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\bin\Debug\ChatServer.exe
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\bin\Debug\WcfChat.dll
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\bin\Debug\WcfChat.pdb
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\obj\x86\Debug\ChatServer.exe
+c:\users\isaac ojeda\documents\visual studio 2010\Projects\WcfChat\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\bin\Debug\WcfChat.dll
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\bin\Debug\WcfChat.pdb
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\obj\x86\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Users\lenovo\Downloads\WcfChat 0.1\WcfChat\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\bin\Debug\WcfChat.dll
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\bin\Debug\WcfChat.pdb
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\obj\x86\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Users\lenovo\Desktop\tst\WCF\WcfChat\ChatServer\obj\x86\Debug\ChatServer.pdb

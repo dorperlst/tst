@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\tst\tstWebService\MathService1\bin\MathService1.dll.config
+C:\Users\lenovo\Desktop\tst\tstWebService\MathService1\bin\MathService1.dll
+C:\Users\lenovo\Desktop\tst\tstWebService\MathService1\bin\MathService1.pdb
+C:\Users\lenovo\Desktop\tst\tstWebService\MathService1\obj\Debug\MathService1.dll
+C:\Users\lenovo\Desktop\tst\tstWebService\MathService1\obj\Debug\MathService1.pdb

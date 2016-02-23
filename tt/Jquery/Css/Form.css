@@ -1,0 +1,13 @@
+﻿input[type="submit"] {
+     color: white;
+     padding: 5px;
+     width: 68px;
+     height: 28px;
+     border-radius: 5px;
+     border: 1px;
+     font-weight: bold;
+     border: 1px groove #7A7A7A;
+}
+
+  
+

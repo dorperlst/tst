@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\tst\WebServicesDemo2\bin\WebServicesDemo2.dll.config
+C:\Users\lenovo\Desktop\tst\WebServicesDemo2\bin\WebServicesDemo2.dll
+C:\Users\lenovo\Desktop\tst\WebServicesDemo2\bin\WebServicesDemo2.pdb
+C:\Users\lenovo\Desktop\tst\WebServicesDemo2\obj\Debug\WebServicesDemo2.dll
+C:\Users\lenovo\Desktop\tst\WebServicesDemo2\obj\Debug\WebServicesDemo2.pdb
