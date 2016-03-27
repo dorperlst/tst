@@ -4,7 +4,7 @@
     {
         public string GetMessage(string name)
         {
-            return "Hello " + name;
+            return "Hello tst" + name;
         }
     }
 }
